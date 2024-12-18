@@ -1,0 +1,73 @@
+
+body {
+    background-color: rgb(31,31,31);
+    font-family: fira sans;
+}
+.dialogue {
+    /* border: 3px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172); */
+    justify-content: space-between;
+    user-select: none;
+    display: flex;
+    max-width: 700px;
+    font-size: 16px;
+    color: rgb(105, 100, 100);
+    /* color: red; */
+    resize: none;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.players {
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    padding-right: 100px;
+    position: relative;
+    padding-bottom: 10px;
+    color: white;
+}
+.WPM {
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    position: relative;
+    padding-right: 100px;
+    padding-top: 7px;
+    padding-bottom: 12px;
+    color: white;
+}
+.player2 {
+    margin-top: 300px;
+}
+.inputtype {
+    border: 3px;
+    border-style: solid;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: fira sans;
+    border-color: rgb(172, 172, 172);
+    background-color: rgb(31,31,31, 0);
+    resize: none;
+    width: 700px;
+    height: 200px;
+    resize: none;
+}
+#p1-type {
+    position: fixed;
+}
+#p2-type {
+    position: fixed;
+}
+#p1-dialogue {
+    position: fixed;
+    top: 100px;
+    left: 13px;
+}
+#p2-dialogue {
+    position: fixed;
+    top: 486px;
+    left: 13px;
+}
