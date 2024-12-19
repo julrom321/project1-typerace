@@ -4,19 +4,16 @@ body {
     font-family: fira sans;
 }
 .dialogue {
-    /* border: 3px;
+    border: 3px;
     border-style: solid;
-    border-color: rgb(172, 172, 172); */
-    justify-content: space-between;
+    border-color: rgb(172, 172, 172);
     user-select: none;
-    display: flex;
-    max-width: 700px;
+    display: block;
+    width: 700px;
+    height: 200px;
     font-size: 16px;
     color: rgb(105, 100, 100);
-    /* color: red; */
     resize: none;
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 .players {
     display: inline-block;
@@ -42,7 +39,14 @@ body {
 .player2 {
     margin-top: 300px;
 }
-.inputtype {
+.cursor {
+    background-color: rgba(0, 174, 255, 0.397);
+}
+.done {
+    color: rgba(61, 104, 71, 0.733);
+}
+/*  Graveyard 
+    .inputtype {
     border: 3px;
     border-style: solid;
     color: rgb(255, 255, 255);
@@ -54,20 +58,10 @@ body {
     width: 700px;
     height: 200px;
     resize: none;
-}
-#p1-type {
+} */
+/* #p1-type {
     position: fixed;
 }
 #p2-type {
     position: fixed;
-}
-#p1-dialogue {
-    position: fixed;
-    top: 100px;
-    left: 13px;
-}
-#p2-dialogue {
-    position: fixed;
-    top: 486px;
-    left: 13px;
-}
+} */
