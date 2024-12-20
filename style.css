@@ -36,14 +36,35 @@ body {
     padding-bottom: 12px;
     color: white;
 }
-.player2 {
-    margin-top: 300px;
+.Time {
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    position: relative;
+    padding-right: 100px;
+    padding-top: 7px;
+    padding-bottom: 12px;
+    color: white;
+}
+.status {
+    margin-top: 100px;
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(172, 172, 172);
+    position: relative;
+    padding-right: 100px;
+    padding-top: 7px;
+    padding-bottom: 12px;
+    color: white;
 }
 .cursor {
-    background-color: rgba(0, 174, 255, 0.397);
+    background-color: rgba(0, 174, 255, 0.11);
+    color: white;
 }
 .done {
-    color: rgba(61, 104, 71, 0.733);
+    color: rgb(61, 104, 71);
 }
 /*  Graveyard 
     .inputtype {
