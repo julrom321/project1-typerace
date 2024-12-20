@@ -9,4 +9,4 @@ Keyboard
 ![GamePreview](https://github.com/julrom321/project1-typerace/blob/main/mysupercoolawesomescreenshot.PNG)
 
 ### Can be played here. Go to this website and click on "Run"
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+https://codepen.io/Julrom321/pen/ogvWNxV
