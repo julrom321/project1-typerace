@@ -6,4 +6,4 @@ Who will be faster? You or the person next to you?
 Keyboard
 
 ###ScreenShots
-![GamePreview][https://github.com/julrom321/project1-typerace/blob/main/mysupercoolawesomescreenshot.PNG](https://raw.githubusercontent.com/julrom321/project1-typerace/refs/heads/main/mysupercoolawesomescreenshot.PNG)
+![GamePreview](https://github.com/julrom321/project1-typerace/blob/main/mysupercoolawesomescreenshot.PNG](https://raw.githubusercontent.com/julrom321/project1-typerace/refs/heads/main/mysupercoolawesomescreenshot.PNG)
