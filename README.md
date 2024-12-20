@@ -7,3 +7,4 @@ Keyboard
 
 ### ScreenShots
 ![GamePreview](https://github.com/julrom321/project1-typerace/blob/main/mysupercoolawesomescreenshot.PNG)
+<script async src="//jsfiddle.net/btroncone/fpe6csaz/embed/"></script>
